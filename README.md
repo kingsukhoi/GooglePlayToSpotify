@@ -14,5 +14,5 @@ Currently only Google Play To CSV works.
 
 #TODO
 - [x] Get Google Play songs to CSV
-- [] Push CSV to Spotify
-- [] Make 1 program to do all this
+- [ ] Push CSV to Spotify
+- [ ] Make 1 program to do all this
